@@ -6,7 +6,7 @@
 
 ## ABOUT ME 🎁
 
-<div>📚 study <div>
+# 📚 study
  <br>		
 ● <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <br>
 ● <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=C Sharp&logoColor=white"> <br>
