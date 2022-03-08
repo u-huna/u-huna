@@ -18,9 +18,8 @@
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS Wizardry-F43059?style=for-the-badge&logo=html5&logoColor=white">
 
-<br>
 
-## 💣 Skills 💣
+### 💣 Skills 💣
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=html5&logoColor=white">
   
  </p>
