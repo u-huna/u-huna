@@ -6,14 +6,21 @@
 
 ## 🎁 ABOUT ME 🎁
 
-### 📚 study
+### 😊 Introduce  
+
+  💛 Hi Guys, My name is Choeun Park ! <br>
+  💛 My Instagram '@choxxny' follow me <br>
+  💛 I’m interest in Animaks / Eco / Boxing <br>
+  💛 How to reach me amlswjd341@naver.com
+  
+### 📚 Study
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=C Sharp&logoColor=white">
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS Wizardry-F43059?style=for-the-badge&logo=html5&logoColor=white">
 
 <br>
 
-## 💣 SKILLS 💣
+## 💣 Skills 💣
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=html5&logoColor=white">
   
  </p>
