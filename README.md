@@ -10,7 +10,7 @@
 
   💛 Hi Guys, My name is Choeun Park ! <br>
   💛 My Instagram '@choxxny' follow me <br>
-  💛 I’m interest in Animas / Eco / Boxing <br>
+  💛 I’m interest in Animals and Boxing <br>
   💛 How to reach me amlswjd341@naver.com
   
 ### 📚 Study
